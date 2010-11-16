@@ -1,3 +1,3 @@
 module Repo
-  VERSION = "0.0.5"
+  VERSION = "0.0.2"
 end
